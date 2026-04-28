@@ -8,7 +8,7 @@ Provisioning • Identity • Automation • HA • Monitoring
 ##  Checklist
 
 ###  Core
-- [x] KVM host (Rocky 9)
+- [ ] KVM host (Rocky 9)
 - [ ] Networking (bridge)
 
 ###  Network
